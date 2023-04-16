@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <!-- if above doesn't work <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 -->
 
+I'm a passionate web developer with a strong interest in coding, open source projects and new technologies. A lifelong learner, constantly seeking to expand my knowledge and skillset.
+
 
 [![GitHub: Danish Pinto](https://img.shields.io/badge/-Danish%20Pinto-grey?style=flat&logo=github&link=https://github.com/danishrp102)](https://github.com/danishrp102)
 [![Linkedin: Danish Pinto](https://img.shields.io/badge/-Danish%20Pinto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danish-pinto-b942b2201/)](https://www.linkedin.com/in/danish-pinto-b942b2201/)
