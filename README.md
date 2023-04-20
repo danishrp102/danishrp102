@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" src ="https://github.com/harivams-sai/harivams-sai/blob/main/homepage/aero-blend.gif" width="300px"> -->
 
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> I'm Danish Pinto
-<!-- if above doesn't work <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Danish Pinto
+<!--if above doesn't work <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 -->
+
+<!--https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif -->
 
 I'm a passionate web developer with a strong interest in coding, open source projects and new technologies. A lifelong learner, constantly seeking to expand my knowledge and skillset.
 
