@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 I'm a passionate web developer with a strong interest in coding, open source projects and new technologies. I'm a fast and eager learner, constantly seeking to expand my knowledge and skillset.
 
 [![GitHub: Danish Pinto](https://img.shields.io/badge/-Danish%20Pinto-grey?style=flat&logo=github&link=https://github.com/danishrp102)](https://github.com/danishrp102)
-[![Linkedin: Danish Pinto](https://img.shields.io/badge/-Danish%20Pinto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danish-pinto-b942b2201/)](https://www.linkedin.com/in/danish-pinto-b942b2201/)
+[![Linkedin: Danish Pinto](https://img.shields.io/badge/-Danish%20Pinto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danish-pinto-b942b2201/)](https://www.linkedin.com/in/danishpinto102/)
 [![Leetcode: Danish Pinto](https://img.shields.io/badge/-Danish%20Pinto-grey?style=flat-square&logo=Leetcode&logoColor=yellow&link=https://leetcode.com/Varado/)](https://leetcode.com/Varado/)
 
 <!--
